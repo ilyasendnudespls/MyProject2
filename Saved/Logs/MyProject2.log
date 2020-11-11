@@ -1917,3 +1917,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.11-16.48.08:451][ 72]LogSavePackage: Moving '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Saved/AHAHAHAHA54BE7B2644C5C044294F3095F506357B.tmp' to '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Content/DANGEONMASTER/AHAHAHAHA.uasset'
 [2020.11.11-16.48.08:886][ 72]AssetCheck: New page: Asset Save: AHAHAHAHA
 [2020.11.11-16.48.08:886][ 72]LogContentValidation: Display: Validating Material /Game/DANGEONMASTER/AHAHAHAHA.AHAHAHAHA
+[2020.11.11-16.48.52:104][803]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.11-16.48.54:890][803]LogSlate: Window 'Message' being destroyed
+[2020.11.11-16.48.54:895][803]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2020.11.11-16.49.08:337][968]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.11.11-16.49.26:527][215]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.11-16.49.26:871][215]SourceControl: Error: Updated 0 paths from the index
+[2020.11.11-16.49.27:130][215]SourceControl: On branch master
+[2020.11.11-16.49.27:130][215]SourceControl: Your branch is up to date with 'origin/master'.
+[2020.11.11-16.49.27:130][215]SourceControl: Changes not staged for commit:
+[2020.11.11-16.49.27:130][215]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2020.11.11-16.49.27:130][215]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2020.11.11-16.49.27:130][215]SourceControl: 	modified:   Saved/Logs/MyProject2.log
+[2020.11.11-16.49.27:130][215]SourceControl: Untracked files:
+[2020.11.11-16.49.27:130][215]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2020.11.11-16.49.27:130][215]SourceControl: 	Saved/Logs/Git-Temp1899C0F441E83CE0BC0F68B048B4A4A3.txt
+[2020.11.11-16.49.27:130][215]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2020.11.11-16.49.30:576][215]LogSlate: Window 'Message' being destroyed
+[2020.11.11-16.49.30:581][215]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2020.11.11-16.49.30:872][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-16.51.26:210][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DANGEONMASTER/SENDNUDESPLS" FILE="../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Content/DANGEONMASTER/SENDNUDESPLS.uasset" SILENT=true
+[2020.11.11-16.51.26:229][296]LogSavePackage: Moving '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Saved/SENDNUDESPLS06BF970D49E2A22235D02DB8E77CA0B4.tmp' to '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Content/DANGEONMASTER/SENDNUDESPLS.uasset'
+[2020.11.11-16.51.26:645][296]AssetCheck: New page: Asset Save: SENDNUDESPLS
+[2020.11.11-16.51.26:645][296]LogContentValidation: Display: Validating Material /Game/DANGEONMASTER/SENDNUDESPLS.SENDNUDESPLS
+[2020.11.11-16.51.33:398][529]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.11-16.51.33:900][529]LogSourceControl: commit successful: [master 22159f2] DANGEON MASTER
+[2020.11.11-16.51.33:972][529]SourceControl: [master 22159f2] DANGEON MASTER
+[2020.11.11-16.51.33:972][529]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.11.11-16.51.33:972][529]SourceControl:  create mode 100644 Content/DANGEONMASTER/SENDNUDESPLS.uasset
+[2020.11.11-16.51.33:979][529]SourceControl: Commited [master 22159f2] DANGEON MASTER.
