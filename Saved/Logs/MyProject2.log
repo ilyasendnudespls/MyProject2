@@ -1946,3 +1946,260 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.11-16.51.33:972][529]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.11.11-16.51.33:972][529]SourceControl:  create mode 100644 Content/DANGEONMASTER/SENDNUDESPLS.uasset
 [2020.11.11-16.51.33:979][529]SourceControl: Commited [master 22159f2] DANGEON MASTER.
+[2020.11.11-17.03.05:465][983]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.11-17.03.05:465][983]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.11-17.03.09:456][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.11.11-17.03.10:519][511]Cmd: DELETE
+[2020.11.11-17.03.10:519][511]Cmd: ACTOR DELETE
+[2020.11.11-17.03.10:868][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.11-17.03.10:985][511]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.11.11-17.03.11:006][511]LogEditorActor: Deleted 1 Actors (0.200 secs)
+[2020.11.11-17.03.11:409][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.11.11-17.03.11:531][564]Cmd: DELETE
+[2020.11.11-17.03.11:531][564]Cmd: ACTOR DELETE
+[2020.11.11-17.03.11:537][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.11-17.03.11:554][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.11-17.03.11:558][564]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.11.11-17.03.11:872][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-17.03.12:001][606]Cmd: DELETE
+[2020.11.11-17.03.12:001][606]Cmd: ACTOR DELETE
+[2020.11.11-17.03.12:003][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.11-17.03.12:020][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-17.03.12:023][606]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.11-17.03.12:331][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.11.11-17.03.12:500][653]Cmd: DELETE
+[2020.11.11-17.03.12:500][653]Cmd: ACTOR DELETE
+[2020.11.11-17.03.12:503][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.11-17.03.12:518][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.11-17.03.12:520][653]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.11-17.03.12:856][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.11.11-17.03.13:699][783]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.11-17.03.13:860][794]Cmd: DELETE
+[2020.11.11-17.03.13:860][794]Cmd: ACTOR DELETE
+[2020.11.11-17.03.13:862][794]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2020.11.11-17.03.13:877][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-17.03.13:880][794]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.11.11-17.03.14:497][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.11.11-17.03.14:656][878]Cmd: DELETE
+[2020.11.11-17.03.14:656][878]Cmd: ACTOR DELETE
+[2020.11.11-17.03.14:658][878]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.11-17.03.14:676][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.11-17.03.14:678][878]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.11-17.03.20:734][448]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.11.11-17.03.21:243][448]LogSlate: Took 0.018661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2020.11.11-17.03.50:412][545]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2020.11.11-17.03.50:413][545]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2020.11.11-17.03.50:430][545]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2020.11.11-17.03.51:284][545]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.11.11-17.04.03:978][758]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.11.11-17.04.35:518][547]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2020.11.11-17.04.35:534][547]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2020.11.11-17.04.35:544][547]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2020.11.11-17.04.35:563][547]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2020.11.11-17.04.35:574][547]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2020.11.11-17.04.35:594][547]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2020.11.11-17.04.35:605][547]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2020.11.11-17.04.35:625][547]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2020.11.11-17.04.35:630][547]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2020.11.11-17.04.35:647][547]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2020.11.11-17.04.35:652][547]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2020.11.11-17.04.35:667][547]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2020.11.11-17.04.35:682][547]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2020.11.11-17.04.35:697][547]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2020.11.11-17.04.35:701][547]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2020.11.11-17.04.35:714][547]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2020.11.11-17.04.35:720][547]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2020.11.11-17.04.35:737][547]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2020.11.11-17.04.35:754][547]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2020.11.11-17.04.35:773][547]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2020.11.11-17.04.35:777][547]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2020.11.11-17.04.35:826][547]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2020.11.11-17.04.35:831][547]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2020.11.11-17.04.35:853][547]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2020.11.11-17.04.35:859][547]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2020.11.11-17.04.35:896][547]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2020.11.11-17.04.35:900][547]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2020.11.11-17.04.35:917][547]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2020.11.11-17.04.35:920][547]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2020.11.11-17.04.35:932][547]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2020.11.11-17.04.35:936][547]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2020.11.11-17.04.35:950][547]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2020.11.11-17.04.35:954][547]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2020.11.11-17.04.35:969][547]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2020.11.11-17.04.35:981][547]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2020.11.11-17.04.35:997][547]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2020.11.11-17.04.36:002][547]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2020.11.11-17.04.36:023][547]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2020.11.11-17.04.36:033][547]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2020.11.11-17.04.36:050][547]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2020.11.11-17.04.36:055][547]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2020.11.11-17.04.36:071][547]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2020.11.11-17.04.36:075][547]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2020.11.11-17.04.36:090][547]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2020.11.11-17.04.36:094][547]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2020.11.11-17.04.36:117][547]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2020.11.11-17.04.36:122][547]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2020.11.11-17.04.36:139][547]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2020.11.11-17.04.36:146][547]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2020.11.11-17.04.36:163][547]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2020.11.11-17.04.36:168][547]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2020.11.11-17.04.36:183][547]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2020.11.11-17.04.36:192][547]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2020.11.11-17.04.36:208][547]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2020.11.11-17.04.36:212][547]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2020.11.11-17.04.36:233][547]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2020.11.11-17.04.36:238][547]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2020.11.11-17.04.36:258][547]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2020.11.11-17.04.36:263][547]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2020.11.11-17.04.36:281][547]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2020.11.11-17.04.36:285][547]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2020.11.11-17.04.36:306][547]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2020.11.11-17.04.36:310][547]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2020.11.11-17.04.36:325][547]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2020.11.11-17.04.36:329][547]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2020.11.11-17.04.36:345][547]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2020.11.11-17.04.36:349][547]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2020.11.11-17.04.36:366][547]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2020.11.11-17.04.36:386][547]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2020.11.11-17.04.36:407][547]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 256X256)
+[2020.11.11-17.04.36:415][547]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 256X256)
+[2020.11.11-17.04.36:433][547]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 256X256)
+[2020.11.11-17.04.36:438][547]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 256X256)
+[2020.11.11-17.04.36:455][547]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 256X256)
+[2020.11.11-17.04.36:460][547]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 256X256)
+[2020.11.11-17.04.36:476][547]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 256X256)
+[2020.11.11-17.04.36:515][547]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 256X256)
+[2020.11.11-17.04.36:531][547]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 256X256)
+[2020.11.11-17.04.36:536][547]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 256X256)
+[2020.11.11-17.04.36:554][547]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 256X256)
+[2020.11.11-17.04.36:558][547]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 256X256)
+[2020.11.11-17.04.36:575][547]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 256X256)
+[2020.11.11-17.04.36:585][547]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 256X256)
+[2020.11.11-17.04.36:604][547]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 256X256)
+[2020.11.11-17.04.36:609][547]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 256X256)
+[2020.11.11-17.04.36:628][547]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 256X256)
+[2020.11.11-17.04.36:633][547]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 256X256)
+[2020.11.11-17.04.36:649][547]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 256X256)
+[2020.11.11-17.04.36:654][547]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 256X256)
+[2020.11.11-17.04.36:669][547]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 256X256)
+[2020.11.11-17.04.36:681][547]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 256X256)
+[2020.11.11-17.04.36:699][547]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 256X256)
+[2020.11.11-17.04.36:703][547]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 256X256)
+[2020.11.11-17.04.36:722][547]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 256X256)
+[2020.11.11-17.04.36:727][547]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 256X256)
+[2020.11.11-17.04.36:743][547]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 256X256)
+[2020.11.11-17.04.36:748][547]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 256X256)
+[2020.11.11-17.04.36:765][547]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 256X256)
+[2020.11.11-17.04.36:776][547]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 256X256)
+[2020.11.11-17.04.36:800][547]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 256X256)
+[2020.11.11-17.04.36:804][547]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 256X256)
+[2020.11.11-17.04.36:821][547]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 256X256)
+[2020.11.11-17.04.36:825][547]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 256X256)
+[2020.11.11-17.04.36:871][547]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 256X256)
+[2020.11.11-17.04.36:876][547]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 256X256)
+[2020.11.11-17.04.36:891][547]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 256X256)
+[2020.11.11-17.04.36:894][547]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 256X256)
+[2020.11.11-17.04.36:910][547]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 256X256)
+[2020.11.11-17.04.36:915][547]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 256X256)
+[2020.11.11-17.04.36:933][547]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 256X256)
+[2020.11.11-17.04.36:938][547]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 256X256)
+[2020.11.11-17.04.36:955][547]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 256X256)
+[2020.11.11-17.04.36:960][547]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 256X256)
+[2020.11.11-17.04.36:978][547]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 256X256)
+[2020.11.11-17.04.36:982][547]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 256X256)
+[2020.11.11-17.04.36:998][547]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 256X256)
+[2020.11.11-17.04.37:002][547]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 256X256)
+[2020.11.11-17.04.37:020][547]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 256X256)
+[2020.11.11-17.04.37:025][547]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 256X256)
+[2020.11.11-17.04.37:039][547]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 256X256)
+[2020.11.11-17.04.37:044][547]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 256X256)
+[2020.11.11-17.04.37:059][547]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 256X256)
+[2020.11.11-17.04.37:065][547]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 256X256)
+[2020.11.11-17.04.37:082][547]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 256X256)
+[2020.11.11-17.04.37:086][547]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2020.11.11-17.04.37:101][547]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2020.11.11-17.04.37:105][547]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 256X256)
+[2020.11.11-17.04.37:121][547]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 256X256)
+[2020.11.11-17.04.46:962][535]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.11.11-17.04.48:979][738]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.11.11-17.04.54:042][297]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.11.11-17.04.55:534][448]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.11.11-17.05.24:489][455]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.11.11-17.05.47:028][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.11.11-17.05.47:189][532]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2020.11.11-17.05.47:310][532]LogSavePackage: Moving '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMapC7B096CD4DE5E10E68122FAE0CA0BA37.tmp' to '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.11-17.05.47:922][532]LogSavePackage: Moving '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_BuiltData171CFBED4E0062B3C438ED9D99CB81BC.tmp' to '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.11.11-17.05.47:938][532]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-17.05.47:938][532]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.11-17.05.47:938][532]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.11-17.05.52:992][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.52:993][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/capca/Documents/Unreal Projects/MyProject2'
+[2020.11.11-17.05.53:228][968]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/MyProject2.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.11.11-17.05.53:257][968]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.11-17.05.55:279][968]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.022 s
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: 
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/PackageName.cpp] [Line: 943]
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/capca/Documents/Unreal Projects/MyProject2/MyProject2.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: Stack: 
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5fd9c837 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5f970374 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5929715c UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5929729b UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd4c9d54fc UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd4c98a1ea UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd4c989d0b UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd4c9a2b6e UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd35a4c456 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd35a51702 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5929bc4f UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5d97b66e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ffd5e2537e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ff72a707800 UE4Editor.exe!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ff72a71ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ff72a71bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ff72a72e31d UE4Editor.exe!UnknownFunction []
+[2020.11.11-17.05.55:282][968]LogOutputDevice: Error: [Callstack] 0x00007ff72a73145a UE4Editor.exe!UnknownFunction []
+[2020.11.11-17.05.55:283][968]LogOutputDevice: Error: [Callstack] 0x00007ffd9db17034 KERNEL32.DLL!UnknownFunction []
+[2020.11.11-17.05.55:283][968]LogOutputDevice: Error: [Callstack] 0x00007ffd9f3bcec1 ntdll.dll!UnknownFunction []
+[2020.11.11-17.05.55:283][968]LogOutputDevice: Error: 
+[2020.11.11-17.05.55:345][968]LogStats:                SubmitErrorReport -  0.000 s
+[2020.11.11-17.06.08:048][968]LogStats:                    SendNewReport - 12.704 s
+[2020.11.11-17.06.08:048][968]LogStats:             FDebug::EnsureFailed - 14.792 s
+[2020.11.11-17.06.14:014][968]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.11-17.06.14:014][968]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.11-17.06.17:179][968]LogSlate: Window 'Submit Files' being destroyed
+[2020.11.11-17.06.17:497][968]SourceControl: Error: fatal: pathspec 'C:/Users/capca/Documents/Unreal Projects/MyProject2/MyProject2.uproject' did not match any files
+[2020.11.11-17.06.17:790][968]SourceControl: Error: error: pathspec 'C:/Users/capca/Documents/Unreal Projects/MyProject2/MyProject2.uproject' did not match any file(s) known to git
